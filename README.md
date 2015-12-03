@@ -1,4 +1,6 @@
 # lua-lzma
+a simple lua bindings for lzma
+* **LZMA SDK** Copyright (C) 1999-2010 Igor Pavlov
 
 ## Usage
 ```
