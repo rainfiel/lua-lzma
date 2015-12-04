@@ -44,7 +44,7 @@ macosx:
 lzma.so: $(FILES)
 	env $(CC) $(DLLFLAGS) $(FILES) -o lzma.so
 
-$(FILES): makefile
+$(FILES): Makefile
 
 clean:
 	rm -f $(FILES) lzma.so
