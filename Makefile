@@ -1,5 +1,5 @@
 LIBNAME = lzma
-LUADIR = /usr/local/include
+LUADIR = ../../../skynet/3rd/lua
 
 COPT = -O2
 # COPT = -DLPEG_DEBUG -g
